@@ -1,0 +1,20 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "Football News 1",
+        "content": "This is the first football news article."
+      },
+      {
+        "id": 2,
+        "title": "Football News 2",
+        "content": "This is the second football news article."
+      },
+      {
+        "id": 3,
+        "title": "Football News 3",
+        "content": "This is the third football news article."
+      }
+    ]
+  }
+  
