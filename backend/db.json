@@ -2,18 +2,18 @@
     "news": [
       {
         "id": 1,
-        "title": "Football News 1",
-        "content": "This is the first football news article."
+        "title": "Exciting Match: Team A vs Team B",
+        "content": "Team A secured a stunning victory over Team B with a last-minute goal."
       },
       {
         "id": 2,
-        "title": "Football News 2",
-        "content": "This is the second football news article."
+        "title": "Top Scorers This Week",
+        "content": "Player X and Player Y are leading the goal-scoring charts this week."
       },
       {
         "id": 3,
-        "title": "Football News 3",
-        "content": "This is the third football news article."
+        "title": "Injury Updates",
+        "content": "Star player Z is expected to be out for 3 weeks due to an ankle injury."
       }
     ]
   }
