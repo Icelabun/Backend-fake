@@ -1,20 +1,37 @@
 {
-    "news": [
-      {
-        "id": 1,
-        "title": "Exciting Match: Team A vs Team B",
-        "content": "Team A secured a stunning victory over Team B with a last-minute goal."
-      },
-      {
-        "id": 2,
-        "title": "Top Scorers This Week",
-        "content": "Player X and Player Y are leading the goal-scoring charts this week."
-      },
-      {
-        "id": 3,
-        "title": "Injury Updates",
-        "content": "Star player Z is expected to be out for 3 weeks due to an ankle injury."
-      }
-    ]
-  }
-  
+  "news": [
+    {
+      "id": 1,
+      "title": "Exciting Concert: Band A vs Band B",
+      "content": "Band A secured a stunning performance over Band B with a last-minute encore."
+    },
+    {
+      "id": 2,
+      "title": "Top Chart-Toppers This Week",
+      "content": "Artist X and Artist Y are leading the music charts this week."
+    },
+    {
+      "id": 3,
+      "title": "Tour Updates",
+      "content": "Star artist Z is expected to be out for 3 weeks due to a vocal strain."
+    }
+  ]
+}{
+  "news": [
+    {
+      "id": 1,
+      "title": "Exciting Concert: Band A vs Band B",
+      "content": "Band A secured a stunning performance over Band B with a last-minute encore."
+    },
+    {
+      "id": 2,
+      "title": "Top Chart-Toppers This Week",
+      "content": "Artist X and Artist Y are leading the music charts this week."
+    },
+    {
+      "id": 3,
+      "title": "Tour Updates",
+      "content": "Star artist Z is expected to be out for 3 weeks due to a vocal strain."
+    }
+  ]
+}
